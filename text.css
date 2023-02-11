@@ -22,3 +22,15 @@ div {
     background-color: #f9f9f9;
     word-spacing: 5px;
   }
+
+  div {
+    background-color: #ddd;
+    padding: 10px;
+    width: 200px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  div:hover {
+    overflow: visible;
+  }
