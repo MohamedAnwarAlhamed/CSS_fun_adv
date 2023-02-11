@@ -17,3 +17,8 @@ div {
     background-color: #f9f9f9;
     text-transform: capitalize;
   }
+
+  div {
+    background-color: #f9f9f9;
+    word-spacing: 5px;
+  }
